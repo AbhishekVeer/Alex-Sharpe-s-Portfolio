@@ -1,4 +1,4 @@
-# Alex-Sharpe-s-Portfolio
+# Alex-Sharpe's-Portfolio
 SOLVED: Alex Sharpe's Portfolio Harvard Case Study- "https://hbsp.harvard.edu/product/908N20-PDF-ENG"
 
 Alex Sharpe's Portfolio provides an introduction to the Capital Asset Pricing Model (CAPM), portfolio diversification and risk management.
